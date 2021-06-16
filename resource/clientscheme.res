@@ -3028,7 +3028,131 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		BikoRegular12
+		{
+			"1"
+			{
+				"name" 		"Biko"
+				"tall" 		"12"
+				"weight" 	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		BikoRegular16
+		{
+			"1"
+			{
+				"name" 		"Biko"
+				"tall" 		"16"
+				"weight" 	"500"
+				"antialias"	"1"
+			}
+		}
+	
+		BikoRegular24
+		{
+			"1"
+			{
+				"name" 		"Biko"
+				"tall" 		"24"
+				"weight" 	"500"
+				"antialias"	"1"
+			}
+		}
+	
+		BikoRegular32
+		{
+			"1"
+			{
+				"name" 		"Biko"
+				"tall" 		"32"
+				"weight" 	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		BikoRegular36
+		{
+			"1"
+			{
+				"name" 		"Biko"
+				"tall" 		"36"
+				"weight" 	"500"
+				"antialias"	"1"
+			}
+		}
+		
+		BikoRegular42
+		{
+			"1"
+			{
+				"name" 		"Biko"
+				"tall" 		"42"
+				"weight" 	"500"
+				"antialias"	"1"
+			}
+		}
+	
+		BikoRegular48
+		{
+			"1"
+			{
+				"name" 		"Biko"
+				"tall" 		"48"
+				"weight" 	"500"
+				"antialias"	"1"
+			}
+		}
+	
+		WesternBangBang18
+		{
+			"1"
+			{
+				"name" 		"Western Bang Bang"
+				"tall" 		"18"
+				"weight" 	"500"
+				"antialias"	"1"
+			}
+		}
+	
+		WesternBangBang24
+		{
+			"1"
+			{
+				"name" 		"Western Bang Bang"
+				"tall" 		"24"
+				"weight" 	"500"
+				"antialias"	"1"
+			}
+		}
+	
+		WesternBangBang36
+		{
+			"1"
+			{
+				"name" 		"Western Bang Bang"
+				"tall" 		"36"
+				"weight" 	"500"
+				"antialias"	"1"
+			}
+		}
+	
+		WesternBangBang48
+		{
+			"1"
+			{
+				"name" 		"Western Bang Bang"
+				"tall" 		"48"
+				"weight" 	"500"
+				"antialias"	"1"
+			}
+		}
 	}
+	
+
+	// The fonts I use for custom hud
 
 	//
 	//////////////////// BORDERS //////////////////////////////
@@ -5838,6 +5962,31 @@ Scheme
 			{
 				"range" "0x0000 0x007E"
 			}
+		}
+		"8"
+		{
+			"font" "resource/fonts/Biko_Black.otf"
+			"name" "Biko-Black"
+		}
+		"9"
+		{
+			"font" "resource/fonts/Biko_Bold.otf"
+			"name" "Biko-Bold"
+		}
+		"10"
+		{
+			"font" "resource/fonts/Biko_Regular.otf"
+			"name" "Biko"
+		}
+		"11"
+		{
+			"font" "resource/fonts/Biko_Light-Restricted.otf"
+			"name" "Biko-Light"
+		}
+		"12"
+		{
+			"font" "resource/fonts/Western Bang Bang.otf"
+			"name" "Western Bang Bang"
 		}
 	}
 }
